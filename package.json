@@ -12,6 +12,7 @@
     "babel-preset-stage-2": "^6.5.0",
     "kefir": "^3.2.2",
     "kefir.atom": "^2.2.1",
+    "kefir.react.native": "^0.1.0",
     "partial.lenses": "^3.4.1",
     "ramda": "^0.21.0",
     "react": "^15.0.2",

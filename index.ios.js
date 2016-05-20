@@ -13,8 +13,8 @@ import {
 
 import Counter from './components/Counter';
 import {increase, decrease, counter} from './model/counter';
-import R from "react.reactive"
-const RCounter = R(Counter);
+import K, {fromClass} from "kefir.react.native"
+const RCounter = fromClass(Counter);
 
 function Test() {
   return (
