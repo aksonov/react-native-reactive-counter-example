@@ -1,5 +1,5 @@
 # react-native-reactive-counter-example
-React Native Counter Example (Calmm-JS and React.Reactive)
+React Native Counter Example (Kefir, Calmm-JS and React.Reactive)
 
 # Installation
 1. run ./install sh to remove .babelrc from node_modules (hope, my PRs will be merged soon)
